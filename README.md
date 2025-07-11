@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg0m7s&layout=compact&hide_border=true&title_color=800000&text_color=F0F8FF&bg_color=0d1117" />
 </div>
 
-## Studying in this moment:
+## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,nodejs,ts)](https://skillicons.dev)
 
 ## Contacts:
